@@ -1,5 +1,12 @@
 # scrap_href_to_csv
 
+## Requirements
+```
+pip install requests
+pip install beautifulsoup4
+pip install pandas
+```
+
 ## How to run it
 - Run `python3 main.py` into the root directory of this project
 - Input the url from the site you want to script
